@@ -40,18 +40,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-
-    link: https://github.com/levgeljbart
-    link: https://vk.com/id639146092
+    /#contact: https://github.com/levgeljbart
+    /#contact: https://vk.com/id639146092
     link: static/uploads/resume.pdf/CV
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

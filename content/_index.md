@@ -38,7 +38,7 @@ sections:
         - title: Ассистент дизайнера
           company: Vadim Merlis
           company_url: ''
-          company_logo: ''
+          company_logo: 'merlis'
           location: Москва
           date_start: '2022-01-01'
           date_end: '2022-12-12'

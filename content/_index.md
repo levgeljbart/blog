@@ -16,12 +16,12 @@ sections:
     content:
       title: Skills
       items:
-        - name: Arduino programming
+        - name: Программирование Arduino
           description: 50%
-        - name: Fashion Design
+        - name: Модный дизайн
           description: 20%
-        - name: Photography
-          description: 10%
+        - name: Искусствоведение
+          description: 60%
   - block: experience
     content:
       title: Experience

@@ -19,7 +19,7 @@ sections:
         - name: Arduino programming
           description: 50%
         - name: Fashion Design
-          description: 50%
+          description: 20%
         - name: Photography
           description: 10%
           icon: camera-retro

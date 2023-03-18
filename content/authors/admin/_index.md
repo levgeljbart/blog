@@ -7,8 +7,7 @@ first_name: Лев
 last_name: Гельбарт
 
 # Status emoji
-status:
-  icon: 
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -32,7 +31,7 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
+  - courses:
     - course: Бакалавриат Математика и механика РУДН, 2026
 
 # Social/Academic Networking

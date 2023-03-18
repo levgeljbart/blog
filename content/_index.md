@@ -46,12 +46,12 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Arduino programming
+          description: 50%
+          icon: laptop
+          icon_pack: f109
+        - name: Fashion design
+          description: 30%
           icon: chart-line
           icon_pack: fas
         - name: Photography

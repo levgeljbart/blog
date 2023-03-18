@@ -6,9 +6,6 @@ title: Лев Гельбарт
 authors:
 - admin
 
-# Full name (for SEO)
-first_name: Лев
-last_name: Гельбарт
 
 # Is this the primary user of the site?
 superuser: true
@@ -42,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:levevgel@gmail.com"
+  link: mailto:levevgel@gmail.com
 # /#contact: https://github.com/levgeljbart
 # /#contact: https://vk.com/id639146092
 # link: static/uploads/resume.pdf/CV
@@ -53,7 +50,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'levevgel@gmail.com'
+email: "levevgel@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

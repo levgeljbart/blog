@@ -22,6 +22,8 @@ sections:
           description: 50%
         - name: Photography
           description: 10%
+          icon: camera-retro
+          icon_pack: fas
   - block: experience
     content:
       title: Experience

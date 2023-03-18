@@ -14,7 +14,7 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Навыки
       items:
         - name: Программирование Arduino
           description: 50%
@@ -24,7 +24,7 @@ sections:
           description: 60%
   - block: experience
     content:
-      title: Experience
+      title: Опыт работы
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006

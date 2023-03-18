@@ -11,7 +11,8 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: _index.md
+      text: Cтудент первого курса математики и механики, по совместительству начинающий дизайнер.
+    
   - block: features
     content:
       title: Навыки

@@ -25,7 +25,7 @@ sections:
       items:
         - name: Arduino programming
           description: 50%
-          icon: laptop
+          icon: laptop-solid.svg
           icon_pack: f109
         - name: Fashion design
           description: 30%

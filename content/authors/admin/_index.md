@@ -47,6 +47,11 @@ social:
 # /#contact: https://vk.com/id639146092
 # link: static/uploads/resume.pdf/CV
 
+- icon: cv
+  icon_pack: ai
+  link: files/resume.pdf
+
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'levevgel@gmail.com'
 

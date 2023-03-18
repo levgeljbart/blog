@@ -20,10 +20,7 @@ sections:
           description: 50%
           icon: fa-laptop-code
           icon_pack: fas
-        - name: Fashion design
-          description: 30%
-          icon: chart-line
-          icon_pack: fas
+
         - name: Photography
           description: 10%
           icon: camera-retro

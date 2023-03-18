@@ -19,7 +19,7 @@ organizations:
     url: https://www.rudn.ru
 
 # Short bio (displayed in user profile at end of posts)
-bio: Студент первого курса математики и механики, по совместительству начинающий дизайнер.
+bio: Cтудент первого курса математики и механики, по совместительству начинающий дизайнер.
 
 # Interests to show in About widget
 interests:
@@ -29,8 +29,7 @@ interests:
 
 # Education to show in About widget
 education:
-   courses:
-    - course: Бакалавриат Математика и механика РУДН, 2026
+ - course: Бакалавриат Математика и механика РУДН, 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

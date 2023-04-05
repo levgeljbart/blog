@@ -18,7 +18,6 @@ sections:
       title: Навыки
       items:
         - name: Программирование Arduino
-          description: 50%
         - name: Модный дизайн
           description: 20%
         - name: Искусствоведение

@@ -18,10 +18,10 @@ sections:
       title: Навыки
       items:
         - name: Программирование Arduino
+        - name: Английский язык
+          description: уровень B2 
         - name: Модный дизайн
-          description: 20%
-        - name: Искусствоведение
-          description: 60%
+        - name: Бэкстейдж
   - block: experience
     content:
       title: Опыт работы
